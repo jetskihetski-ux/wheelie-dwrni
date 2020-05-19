@@ -1,8 +1,8 @@
-# INJAZ RoboMart
+# Wheelie DWRNI
 
-Autonomous mobile vending robot — INJAZ UAE team project.
+Autonomous mobile vending robot — INJAZ UAE Company Program 2019–2020.
 
-RoboMart navigates a space on wheels and dispenses on-demand supplies (medicine, hygiene products, snacks) to customers without them needing to go to a fixed vending machine.
+Wheelie DWRNI navigates a space on wheels and dispenses on-demand supplies (medicine, hygiene products, snacks) to customers without them needing to go to a fixed vending machine.
 
 ## Features
 - **Inventory system** — product database with stock tracking, categories, and sales reporting
@@ -26,4 +26,5 @@ python main.py
 ```
 
 ## Team
-Built as part of the INJAZ UAE program, 2019–2020.
+Built as part of the INJAZ UAE Company Program, Academic Year 2019–2020.
+Certificate of Achievement issued 19 May 2020.
